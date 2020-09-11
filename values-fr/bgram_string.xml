@@ -4,7 +4,7 @@
     <string name="BGram" translatable="false">BGram</string>
     <string name="AppName" translatable="false">BGram</string>
     <string name="AppNameBeta" translatable="false">BGram Beta</string>
-    <string name="BGramVersion">BGram for Android %1$s</string>
+    <string name="BGramVersion">BGram pour Android %1$s</string>
 
     <!--Biftor-->
     <string name="BGramSettings">Paramètres BGram</string>
@@ -187,10 +187,10 @@
 
     <!--Biftor ChatPreView -->
     <string name="BiftorChatPreViewCat">Aperçu de la discussion</string>
-    <string name="BiftorHideChatPreViewClearButton">Masquer le bouton "Effacer l\'historique"</string>
-    <string name="BiftorHideChatPreViewClearButtonSub">Masquer le bouton "nettoyer l\'historique" pour les messages sauvegardés, groupes personnels et les chaînes.</string>
-    <string name="BiftorHideChatPreViewDeleteButton">Masquer le bouton "Supprimer discussion"</string>
-    <string name="BiftorHideChatPreViewDeleteButtonSub">Masquer le bouton "Supprimer l\'historique" pour les messages sauvegardés, groupes personnels et les chaînes.</string>
+    <string name="BiftorHideChatPreViewClearButton">Masquer "Effacer l\'historique"</string>
+    <string name="BiftorHideChatPreViewClearButtonSub">Masquer le bouton "Effacer l\'historique" pour les messages sauvegardés, groupes personnels et les chaînes.</string>
+    <string name="BiftorHideChatPreViewDeleteButton">Masquer "Supprimer discussion"</string>
+    <string name="BiftorHideChatPreViewDeleteButtonSub">Masquer le bouton "Supprimer l\'échange" pour les messages sauvegardés, groupes personnels et les chaînes.</string>
 
     <!--Biftor port create link in message edit text-->
     <string name="Strikethrough">Barré</string>
@@ -226,7 +226,7 @@
     <string name="BiftorAppCreditsSub">Remerciements à ceux qui ont aidé à la création de l\'application</string>
     <string name="BiftorAppHints">Conseils et astuces</string>
     <string name="BiftorAppHintsSub">Guide vidéo et liste d\'actions en cliquant sur les éléments de l\'interface.</string>
-    <string name="BiftorDonate">Faire une donation</string>
+    <string name="BiftorDonate">Faire un don</string>
     <string name="BiftorDonateSub">Rendre l\'auteur heureux</string>
     <string name="BiftorDonateMoreDetail">Vous pouvez stimuler l\'auteur avec un petit don (bitcoins uniquement) pour maintenir l\'application. En envoyant une récompense plus importante, vous pouvez demander à l\'auteur d\'ajouter la fonctionnalité de votre choix à l\'application.</string>
     <string name="BiftorDonateBTC">Bitcoin</string>
@@ -319,13 +319,13 @@
     <string name="BiftorAddToHiddenChat">Ajouter aux discussions masquées</string>
     <string name="BiftorDeleteHiddenChats">Supprimer des discussions masquées</string>
     <string name="BiftorHiddenChatsPass">Code de vérouillage des discussions masquées</string>
-    <string name="BiftorSetPassCodeForHiddenChats">Régler votre mot de passe pour les discussions masquées</string>
-    <string name="BiftorRemoveHiddenChatsFromSearch">Retirer les discussions masquées de la recherche</string>
+    <string name="BiftorSetPassCodeForHiddenChats">Mot de passe discussions masquées</string>
+    <string name="BiftorRemoveHiddenChatsFromSearch">Ignorer les discussions masquées de la recherche</string>
     <string name="BiftorChangePasscodeInfo">Lorsque vous configurez un mot de passe supplémentaire pour les discussions masquées, à chaque fois que vous souhaitez accéder à une des conversations masquées, vous devrez saisir votre mot de passe. Cela est valable dans tous vos comptes. Remarque : si vous oubliez le code d\'authentification, vous ne pouvez pas ouvrir vos discussions masquées, vous devrez supprimer et réinstaller l\'application. Toutes les discussions secrètes seront perdues.</string>
     <string name="BiftorHiddenChatsButton">Masquer le bouton des discussions</string>
     <string name="BiftorHiddenChatsButtonNewMessages">Clic long sur le bouton nouveau message</string>
     <string name="BiftorHiddenChatsButtonSearch">Clic long sur la recherche</string>
-    <string name="BiftorHiddenChatsButtonOpenDrawer">Long click on open drawer</string>
+    <string name="BiftorHiddenChatsButtonOpenDrawer">Clic long sur le tiroir ouvert</string>
     <string name="BiftorRemoveHiddenChatsNotifi">Supprimer la notification des discussions masquées</string>
 
     <!-- Biftor export chat list -->
@@ -429,8 +429,8 @@
 
     <!-- Biftor auto download next media -->
     <string name="BiftorEnableAutoDownloadNextMedia">Télécharger automatiquement le média suivant</string>
-    <string name="BiftorDisableGoToNextMedia">Disable go to next media</string>
-    <string name="BiftorDisableGoToNextMediaSub">Disable go to next media by tapping on photo edge</string>
+    <string name="BiftorDisableGoToNextMedia">Désactiver média suivant</string>
+    <string name="BiftorDisableGoToNextMediaSub">Désactivez le passage au média suivant en appuyant sur le bord de la photo</string>
 
     <!-- Biftor enable camera in attach menu -->
     <string name="BiftorEnableCameraAttachMenu">Activer la caméra dans le menu "pièce jointe"</string>
@@ -572,7 +572,7 @@
     <string name="BiftorMultiSelectAddToTheGroupTitle">Ajouter %1$s utilisateur(s) à %2$s?</string>
 
     <!--Biftor open avatar photo everywhere-->
-    <string name="BiftorOpenAvatarPhoto">Ouvrir avatar par tap</string>
+    <string name="BiftorOpenAvatarPhoto">Ouvrir avatar</string>
     <string name="BiftorOpenAvatarPhotoSub">Ouvrir une photo lorsque vous appuyez sur un avatar dans la liste des contacts et des membres du groupe.</string>
 
     <!--Biftor open video or GIF with external player-->
@@ -592,7 +592,7 @@
 
     <!--Biftor add ability to sort accounts-->
     <string name="BiftorSortAccounts">Ordre des comptes</string>
-    <string name="BiftorHideOffAccounts">Masquer désactiver</string>
+    <string name="BiftorHideOffAccounts">Masquer comptes désactivés</string>
     <string name="BiftorHideOffAccountsSub">Ne pas afficher les comptes désactivés dans la liste</string>
 
     <!--Biftor add ability to sort pinned dialogs-->
@@ -600,7 +600,7 @@
 
     <!--Biftor added inviter-->
     <string name="BiftorInvitedBy">Invité par %1$s</string>
-    <string name="BiftorSelfJoined">Joint par lien</string>
+    <string name="BiftorSelfJoined">Rejoint par lien</string>
 
     <!--Biftor enter and exit animation -->
     <string name="BiftorEnterAndExitAnim">Animation d\'entrée / sortie</string>
@@ -751,9 +751,9 @@
     <string name="BiftorChannelDiscuss">Discuter</string>
 
     <!--Biftor Translate-->
-    <string name="BiftorTranslate">Translate</string>
-    <string name="BiftorTranslateEnterText">Enter text</string>
-    <string name="BiftorTranslateEnterTextEmpty">You must enter text to translate</string>
+    <string name="BiftorTranslate">Traduire</string>
+    <string name="BiftorTranslateEnterText">Entrer un texte</string>
+    <string name="BiftorTranslateEnterTextEmpty">Vous devez saisir du texte à traduire</string>
     <string name="BiftorTranslateAUTO_DETECT">Auto detect</string>
     <string name="BiftorTranslateAFRIKAANS">Afrikaans</string>
     <string name="BiftorTranslateALBANIAN">ALBANIAN</string>
@@ -825,11 +825,11 @@
     <!--Biftor delete from recent search-->
     <string name="BiftorDeletRecentSearchItem">Are you sure you want to delete this: **%1$s** from recent search?</string>
 
-    <string name="BiftorDrawerContactAndGroup">Contacts and groups</string>
+    <string name="BiftorDrawerContactAndGroup">Contacts et groupes</string>
 
     <!--Biftor floating new msg-->
-    <string name="BiftorChangeToSaveMsg">change FB to save message</string>
-    <string name="BiftorChangeToSaveMsgSub">change new chat button (floating button in chat) to open saved messages</string>
+    <string name="BiftorChangeToSaveMsg">Changer le bouton flottant pour les messages enregistrés</string>
+    <string name="BiftorChangeToSaveMsgSub">Modifier le bouton de nouvelle conversation (bouton flottant) pour ouvrir les messages enregistrés</string>
 
     <string name="BiftorShow">Show</string>
     <string name="BiftorShowFolder">Show folder</string>
@@ -847,17 +847,18 @@
     <string name="BiftorDirectChats">Direct chats</string>
     <string name="BiftorSetAsDirectChats">Set as direct chats</string>
     <string name="BiftorDirectChatsReset">Reset direct chat</string>
-    <string name="BiftorDisplayDirectChats">Display direct chat at</string>
-    <string name="BiftorDisplayDirectChatsSide">Sidebar</string>
-    <string name="BiftorDisplayDirectChatsTab">Tab</string>
-    <string name="BiftorDisplayDirectChatsSideTab">Sidebar and Tab</string>
+    <string name="BiftorDisplayDirectChats">Afficher le chat direct sur</string>
+    <string name="BiftorDisplayDirectChatsSide">Barre latérale</string>
+    <string name="BiftorDisplayDirectChatsTab">Onglet</string>
+    <string name="BiftorDisplayDirectChatsSideTab">Barre latérale et onglet</string>
     <string name="BiftorDirectChatsReorder">Direct chats order</string>
     <string name="BiftorShowDirectChatsInDrawer">Show direct chats in drawer</string>
     <string name="BiftorAddToFav">Add to favourite</string>
     <string name="BiftorDeleteFromFav">Delete from favourite</string>
 
-    <string name="BiftorHideSponsorProxy">Hide sponsor</string>
-    <string name="BiftorHideSponsorProxySub">Hide sponsor proxy from chat list</string>
+    <string name="BiftorHideSponsorProxy">Masquer le sponsor</string>
+    <string name="BiftorHideSponsorProxySub">Masquer le sponsor du proxy de la liste de discussion
+</string>
 
     <!--Biftor shadow socks-->
     <string name="BiftorPing">Ping</string>
