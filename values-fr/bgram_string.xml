@@ -147,7 +147,7 @@
     <string name="BGramOldNight">Nuit</string>
 
     <!-- Biftor select mess text -->
-    <string name="BiftorSelectMessText">Sélectionnez le texte</string>
+    <string name="BiftorSelectMessText">Sélection de texte</string>
 
     <!-- Biftor go to first message -->
     <string name="GoToFirstMessage">Prermier message envoyé</string>
@@ -211,7 +211,7 @@
     <!-- Biftor added about tab-->
     <string name="BiftorAbout">Info</string>
     <string name="BGramChangeLog">ChangeLog</string>
-    <string name="BGramChangeLogSub">Toutes les fonctionnalités dans l'ordre où elles ont été ajoutées</string>
+    <string name="BGramChangeLogSub">Toutes les fonctionnalités dans l\'ordre où elles ont été ajoutées</string>
     <string name="BGramChangeLogLoadFailed">Échec du chargement du ChangLog</string>
     <string name="BiftorSupport">Support</string>
     <string name="BGramOfficialChannel">Chaîne officielle</string>
@@ -239,7 +239,7 @@
     <string name="BiftorDonateQiwi">Qiwi</string>
     <string name="BiftorGettingDonationAddress">Obtention de l'adresse de don…</string>
     <string name="BiftorDonationAddressCopied">Adresse de don copiée dans le presse-papiers.</string>
-    <string name="BiftorGettingDonationAddressFailed">Échec du chargement de l'adresse de don, réessayez plus tard… </string>
+    <string name="BiftorGettingDonationAddressFailed">Échec du chargement de l\'adresse de don, réessayez plus tard… </string>
 
     <!-- Biftor added ghost mode tile-->
     <string name="BiftorGhostModTile">Masquer le statut du mode "Lecture cachée"</string>
@@ -259,9 +259,9 @@
     <string name="HideQuickBarOnScroll">Masquer lors du défilement</string>
     <string name="CenterQuickBarButton">Centrer le bouton de la barre rapide</string>
     <string name="ShowMembersOnQuickBar">Afficher les membres des groupes</string>
-    <string name="BiftorQuickBarClickAction">Action de clique sur l\'avatar</string>
-    <string name="BiftorQuickBarLongClickAction">Action d\'un long clique sur l\'avatar</string>
-    <string name="BiftorQuickBarLongClickActionOnMembersList">Action d\'un long clique sur les membres d\'un groupe</string>
+    <string name="BiftorQuickBarClickAction">Action d'un appui sur l\'avatar</string>
+    <string name="BiftorQuickBarLongClickAction">Action d\'un appui long sur l\'avatar</string>
+    <string name="BiftorQuickBarLongClickActionOnMembersList">Action d\'un appui long sur les membres d\'un groupe</string>
 
     <!--Biftor confirm to voice and video msg-->
     <string name="BiftorConfirmToSendVoice">Messages vocaux</string>
@@ -316,16 +316,16 @@
 
     <!-- Biftor hidden chats -->
     <string name="BiftorHiddenChats">Discussions cachées</string>
-    <string name="BiftorAddToHiddenChat">Ajouter aux discussions cachées</string>
-    <string name="BiftorDeleteHiddenChats">Supprimer des discussions cachées</string>
-    <string name="BiftorHiddenChatsPass">Code de vérouillage des discussions cachées</string>
-    <string name="BiftorSetPassCodeForHiddenChats">Mot de passe discussions cachées</string>
+    <string name="BiftorAddToHiddenChat">Cacher la discussion</string>
+    <string name="BiftorDeleteHiddenChats">Retirer des discussions cachées</string>
+    <string name="BiftorHiddenChatsPass">Mot de passe pour les chats cachés</string>
+    <string name="BiftorSetPassCodeForHiddenChats">Définissez votre code pour les chats cachés</string>
     <string name="BiftorRemoveHiddenChatsFromSearch">Ignorer les discussions cachées de la recherche</string>
-    <string name="BiftorChangePasscodeInfo">Lorsque vous configurez un mot de passe supplémentaire pour les discussions cachées, à chaque fois que vous souhaitez accéder à une des conversations cachées, vous devrez saisir votre mot de passe. Cela est valable dans tous vos comptes. Remarque : si vous oubliez le code d\'authentification, vous ne pouvez pas ouvrir vos discussions cachées, vous devrez supprimer et réinstaller l\'application. Toutes les discussions secrètes seront perdues.</string>
-    <string name="BiftorHiddenChatsButton">Masquer le bouton des discussions</string>
+    <string name="BiftorChangePasscodeInfo">Lorsque vous configurez un mot de passe supplémentaire pour les discussions cachées, à chaque fois que vous souhaitez y accéder, le mot de passe vous sera demandé. Le mot de passe sera défini dans tous vos comptes.\n\nRemarque : si vous oubliez votre mot de passe, vous ne pourrez plus accéder à vos discussions masquées et vous devrez désinstaller et réinstaller l\'application. Toutes les discussions cachées seront perdues.</string>
+    <string name="BiftorHiddenChatsButton">Accès aux discussions masqués</string>
     <string name="BiftorHiddenChatsButtonNewMessages">Appui long sur le bouton de nouveau message</string>
     <string name="BiftorHiddenChatsButtonSearch">Appui long sur la recherche</string>
-    <string name="BiftorHiddenChatsButtonOpenDrawer">Appui long sur le tiroir ouvert</string>
+    <string name="BiftorHiddenChatsButtonOpenDrawer">Appui long sur le menu ouvert</string>
     <string name="BiftorRemoveHiddenChatsNotifi">Supprimer la notification des discussions cachées</string>
 
     <!-- Biftor export chat list -->
@@ -495,9 +495,9 @@
     <string name="BiftorSendingPhotoQuality">Qualité de la photo à l\'envoi</string>
 
     <!-- Biftor Dialogs avatar click action -->
-    <string name="BiftorDialogsAvatarDefClickAction">Action d'un appui sur la liste des discussions</string>
-    <string name="BiftorDialogsAvatarDefLongClickAction">Action d'un appui long sur la liste des discssions</string>
-    <string name="BiftorOpenAvatar">Ouvrir avatar</string>
+    <string name="BiftorDialogsAvatarDefClickAction">Appui sur l'avatar dans la liste de discussion</string>
+    <string name="BiftorDialogsAvatarDefLongClickAction">Appui long sur l'avatar dans la liste de discussion</string>
+    <string name="BiftorOpenAvatar">Afficher l'avatar</string>
 
     <!-- Biftor paint and mention button -->
     <string name="BiftorShowPaintBtn">Afficher le bouton de dessin dans le chat</string>
@@ -668,7 +668,7 @@
     <string name="BiftorTorBridgeInput">Collez votre passerelle ici</string>
     <string name="BiftorTorTroubleConnecting">Problème de connexion ?</string>
     <string name="BiftorTorNewIdentity">Nouvelle identité</string>
-    <string name="BiftorChangeSideBarProxyToTor">Remplacer le proxy de la barre latérale par TOR</string>
+    <string name="BiftorChangeSideBarProxyToTor">Utiliser TOR plutôt qu'un proxy</string>
     <string name="BiftorUseTor">Utiliser TOR</string>
     <string name="BiftorTor">TOR</string>
     <string name="BiftorConnectingToTor">Connexion à TOR</string>
@@ -717,8 +717,8 @@
     <string name="BiftorMayNeedsToRestart">Nécessite d\'être redémarré</string>
 
     <!-- Biftor goto msg for all chats-->
-    <string name="BiftorMentionMsg">Mention</string>
-    <string name="BiftorMentionMsgGoto">Aller à :</string>
+    <string name="BiftorMentionMsg">Mentionner</string>
+    <string name="BiftorMentionMsgGoto">››&#160</string>
     <string name="BiftorGoToLinkChatNotFound">La discssion **%1$s** n\'a pas été trouvée, elle a peut-être été supprimée ou elle n\'existe pas.</string>
     <string name="BiftorGoToLinkInvalidLink">Lien du message invalide</string>
 
@@ -852,7 +852,7 @@
     <string name="BiftorDisplayDirectChatsTab">Onglet</string>
     <string name="BiftorDisplayDirectChatsSideTab">Barre latérale et onglet</string>
     <string name="BiftorDirectChatsReorder">Ordre des chats directs</string>
-    <string name="BiftorShowDirectChatsInDrawer">Afficher les discussions directes dans le tiroir</string>
+    <string name="BiftorShowDirectChatsInDrawer">Afficher les discussions directes dans le menu</string>
     <string name="BiftorAddToFav">Ajouter aux favoris</string>
     <string name="BiftorDeleteFromFav">Supprimer des favoris</string>
 
