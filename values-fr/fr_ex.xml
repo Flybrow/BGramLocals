@@ -3869,7 +3869,7 @@
     <string name="GoToFirstMessage">Aller au permier message</string>
 
     <!--Biftor Save to cloud -->
-    <string name="SaveToCloud">Sauvegarder dans les messages sauvegardés</string>
+    <string name="SaveToCloud">Enregistrer</string>
     <string name="SaveToCloudAlert">Sauvegarder avec ou sans citation ?</string>
     <string name="MessageSaved">Message sauvegardé</string>
     <string name="BiftorSaveWithQuot">Avec citation</string>
